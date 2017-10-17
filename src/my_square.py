@@ -1,5 +1,5 @@
 def my_square(Y);
-***
+**
 takes the value and returns the square
 adding more documentation
 **
